@@ -9,3 +9,7 @@
 <code> brain doodle </code><br/>
 
 !["doodle"](/brainanatomy/HelloBrain.JPG)
+
+<code> Gavin's Aegis </code><br/>
+
+!["Gavin's Divine Aegis Sulcus"](/brainanatomy/OccipitalSulcus.JPG)
