@@ -13,3 +13,7 @@
 <code> Gavin's Aegis </code><br/>
 
 !["Gavin's Divine Aegis Sulcus"](/brainanatomy/OccipitalSulcus.JPG)
+
+<code> Cocaine Neuroplasticity Measurement Study</code><br/>
+
+!["Gavin's Divine Aegis Sulcus"](/brainanatomy/CocaineBrainNeuroplasticityMeasurementStudy.JPG)
